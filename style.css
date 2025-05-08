@@ -246,8 +246,12 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
         left: 40px;
     }
 
-    .content .title, .content .name{
-        font-size: 55px;
+    .content .title, .content{
+        font-size: 60px;
+    }
+
+    .name {
+        font-size: 50px;
     }
 
     .content .des{
@@ -268,12 +272,17 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
         margin-right: 0;
     }
 
+
     .list .item .content{
         top: 40%;
     }
 
-    .content .title, .content .name{
-        font-size: 40px;
+    .content .title, .content{
+        font-size: 50px;
+    }
+
+    .name {
+        font-size: 35px;
     }
 
     .content .btn button{
