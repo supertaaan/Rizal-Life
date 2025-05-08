@@ -254,6 +254,12 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
         font-size: 16px;
     }
 
+     .content .btn a.see-more-link {
+        padding: 8px 16px; 
+        font-size: 14px;  
+        border-width: 1px;  
+    }
+
 }
 
 @media screen and (max-width: 690px){
@@ -284,6 +290,12 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
         width: 40px;
         height: 40px;
         font-size: 14px;
+    }
+
+      .content .btn a.see-more-link {
+        padding: 6px 12px;
+        font-size: 12px;  
+        border-width: 1px; 
     }
     
 }
