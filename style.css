@@ -247,7 +247,7 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
     }
 
     .content .title, .content .name{
-        font-size: 70px;
+        font-size: 55px;
     }
 
     .content .des{
@@ -273,7 +273,7 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
     }
 
     .content .title, .content .name{
-        font-size: 45px;
+        font-size: 40px;
     }
 
     .content .btn button{
@@ -290,6 +290,10 @@ text-shadow: 3px 4px 4px rgb(0, 0, 0);
         width: 40px;
         height: 40px;
         font-size: 14px;
+    }
+
+    .des {
+        font-size: 13px;
     }
 
       .content .btn a.see-more-link {
